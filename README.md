@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## another header
 
 ## License
-> plush dolls are cool - said gary
+> plush dolls are cool - said gary - co authorship happened here
 
 ## Some  some change secondary header here
 
